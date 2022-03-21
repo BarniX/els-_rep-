@@ -1,2 +1,2 @@
 # els-_rep-
-Első prepó
+Első repó
